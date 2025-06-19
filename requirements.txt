@@ -1,0 +1,8 @@
+python-dotenv
+google-generativeai 
+langchain 
+langchain-community 
+speechrecognition 
+langchain-google-genai
+pyttsx3 
+pyaudio
