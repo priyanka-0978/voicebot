@@ -6,3 +6,4 @@ speechrecognition
 langchain-google-genai
 pyttsx3 
 pyaudio
+streamlit
